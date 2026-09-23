@@ -2,7 +2,7 @@
   <img src="https://i.imgur.com/zEIr4gB.png" width="42.5%" alt="HiMaLAYAS Logo" />
 </p>
 <h2 align="center" style="margin-top: 0.5em; margin-bottom: 0.3em;">
-  <strong>Enrichment-based annotation of hierarchically clustered matrices</strong>
+  <strong>Enrichment-based annotation and visualization of hierarchically clustered matrices</strong>
 </h2>
 <p align="center" style="font-size: 0.95em; color: #9ec3ff;">
   <a href="https://github.com/himalayas-base/himalayas" target="_blank" style="text-decoration: none; color: #9ec3ff;">HiMaLAYAS Source Code</a>
